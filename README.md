@@ -1,4 +1,4 @@
-<h1 align="center"># Hi there 👋, I'm Hariharan  S</h1>
+<h1 align="center"># Hi there 👋, I'm Hariharan  B</h1>
 
 <h3 align="center">Student at SRM IST. Bringing forth a motivated attitude and a variety of powerful skills looking to apply extensive skills in Machine learning and Seeking more experience in computer vision and data analytics.</h3>
 <br>
